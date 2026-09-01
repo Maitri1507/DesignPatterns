@@ -3,6 +3,7 @@ using System.Text.Json;
 
 namespace CRUD.WebAPI.Middleware
 {
+    //Checking 
     public class ExceptionMiddleware
     {
         private readonly RequestDelegate _next;
