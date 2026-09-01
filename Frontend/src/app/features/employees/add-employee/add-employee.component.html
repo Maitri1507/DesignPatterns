@@ -1,0 +1,42 @@
+<div class="container mt-4">
+    <h2>Add Employee</h2>
+
+    <form (ngSubmit)="addEmployee()" class="mt-3">
+
+        <div class="mb-3">
+            <label class="form-label">Name:</label>
+            <input 
+                type="text"
+                [(ngModel)]="employee.name"
+                class="form-control"
+                name="name"
+                required
+            />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Email:</label>
+            <input 
+                type="email"
+                class="form-control"
+                [(ngModel)]="employee.email"
+                name="email"
+                required
+            />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Salary:</label>
+            <input 
+                type="number"
+                class="form-control"
+                [(ngModel)]="employee.salary"
+                name="salary"
+                required
+            />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Add</button>
+        <a class="btn btn-secondary ms-2" [routerLink]="['/employees']">Cancel</a>
+    </form>
+</div>

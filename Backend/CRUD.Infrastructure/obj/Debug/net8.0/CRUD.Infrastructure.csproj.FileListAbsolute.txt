@@ -1,0 +1,15 @@
+D:\InterviewPrep\CRUD\Solution1\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Infrastructure.deps.json
+D:\InterviewPrep\CRUD\Solution1\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Infrastructure.dll
+D:\InterviewPrep\CRUD\Solution1\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Infrastructure.pdb
+D:\InterviewPrep\CRUD\Solution1\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Domain.dll
+D:\InterviewPrep\CRUD\Solution1\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Domain.pdb
+D:\InterviewPrep\CRUD\Solution1\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.csproj.AssemblyReference.cache
+D:\InterviewPrep\CRUD\Solution1\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\InterviewPrep\CRUD\Solution1\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.AssemblyInfoInputs.cache
+D:\InterviewPrep\CRUD\Solution1\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.AssemblyInfo.cs
+D:\InterviewPrep\CRUD\Solution1\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.csproj.CoreCompileInputs.cache
+D:\InterviewPrep\CRUD\Solution1\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Inf.43FAA5D9.Up2Date
+D:\InterviewPrep\CRUD\Solution1\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.dll
+D:\InterviewPrep\CRUD\Solution1\CRUD.Infrastructure\obj\Debug\net8.0\refint\CRUD.Infrastructure.dll
+D:\InterviewPrep\CRUD\Solution1\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.pdb
+D:\InterviewPrep\CRUD\Solution1\CRUD.Infrastructure\obj\Debug\net8.0\ref\CRUD.Infrastructure.dll

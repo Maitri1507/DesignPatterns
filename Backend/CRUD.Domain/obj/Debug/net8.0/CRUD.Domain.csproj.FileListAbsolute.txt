@@ -1,0 +1,11 @@
+D:\InterviewPrep\CRUD\Solution1\CRUD.Domain\bin\Debug\net8.0\CRUD.Domain.deps.json
+D:\InterviewPrep\CRUD\Solution1\CRUD.Domain\bin\Debug\net8.0\CRUD.Domain.dll
+D:\InterviewPrep\CRUD\Solution1\CRUD.Domain\bin\Debug\net8.0\CRUD.Domain.pdb
+D:\InterviewPrep\CRUD\Solution1\CRUD.Domain\obj\Debug\net8.0\CRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\InterviewPrep\CRUD\Solution1\CRUD.Domain\obj\Debug\net8.0\CRUD.Domain.AssemblyInfoInputs.cache
+D:\InterviewPrep\CRUD\Solution1\CRUD.Domain\obj\Debug\net8.0\CRUD.Domain.AssemblyInfo.cs
+D:\InterviewPrep\CRUD\Solution1\CRUD.Domain\obj\Debug\net8.0\CRUD.Domain.csproj.CoreCompileInputs.cache
+D:\InterviewPrep\CRUD\Solution1\CRUD.Domain\obj\Debug\net8.0\CRUD.Domain.dll
+D:\InterviewPrep\CRUD\Solution1\CRUD.Domain\obj\Debug\net8.0\refint\CRUD.Domain.dll
+D:\InterviewPrep\CRUD\Solution1\CRUD.Domain\obj\Debug\net8.0\CRUD.Domain.pdb
+D:\InterviewPrep\CRUD\Solution1\CRUD.Domain\obj\Debug\net8.0\ref\CRUD.Domain.dll

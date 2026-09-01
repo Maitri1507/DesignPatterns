@@ -1,0 +1,29 @@
+# ===== .NET Backend =====
+Backend/bin/
+Backend/obj/
+Backend/.vs/
+Backend/*.user
+Backend/*.suo
+Backend/*.cache
+Backend/*.db
+Backend/*.log
+Backend/appsettings.Development.json
+Backend/appsettings.Local.json
+Backend/*.env
+
+# ===== Angular Frontend =====
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.angular/
+Frontend/.cache/
+Frontend/*.log
+Frontend/*.env
+Frontend/*.env.*
+
+# ===== IDE =====
+.vscode/
+.idea/
+
+# ===== OS =====
+Thumbs.db
+.DS_Store
