@@ -6,6 +6,7 @@ namespace CRUD.WebAPI.Middleware
     //Checking for unhandled exceptions and logging them, returning a generic error response to the client.
     //New
     //New changes
+    //conflict
     public class ExceptionMiddleware
     {
         private readonly RequestDelegate _next;
